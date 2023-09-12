@@ -1,7 +1,6 @@
 ### Oláa! Eu sou Larissa Leal 👋
 ##
 - 🔭 Estagiária de TI na PGE-RJ
-- 🌱 Estudando Python
 
 <div style="display: inline_block"><br>
  
